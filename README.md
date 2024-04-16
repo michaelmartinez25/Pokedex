@@ -79,8 +79,8 @@ This app will allow users to search for information about any Pokemon, including
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![Pokedex Wireframe](https://github.com/michaelmartinez25/Pokedex/assets/112640847/cc8911de-6c14-4765-827d-42be90d41973)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
