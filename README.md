@@ -32,17 +32,18 @@ This app will allow users to search for information about any Pokemon, including
 
 **Required Must-have Stories**
 
-* User can view information about a single Pokemon.
-* User can search for Pokemon.
-* User can switch between "Standard" and "Unlock-As-You-Play" modes.
-* User can mark a Pokemon as "Captured."
-    * When captured, more information will appear in the Unlock-As-You-Play Mode.
+- [x] User can view information about a single Pokemon.
+- [x] User can view a list of Pokemon.
 
 **Optional Nice-to-have Stories**
 
-* User can snap a photo of a Pokemon to view info about them.
-* User can search for specific locations to view what Pokemon inhabit that area.
-* User can create Pokemon parties of six to keep track of their team.
+- [ ] User can snap a photo of a Pokemon to view info about them.
+- [ ] User can search for specific locations to view what Pokemon inhabit that area.
+- [ ] User can create Pokemon parties of six to keep track of their team.
+- [ ] User can search for Pokemon.
+- [ ] User can switch between "Standard" and "Unlock-As-You-Play" modes.
+- [ ] User can mark a Pokemon as "Captured."
+    - [ ] When captured, more information will appear in the Unlock-As-You-Play Mode.
 
 ### 2. Screen Archetypes
 
@@ -81,12 +82,15 @@ This app will allow users to search for information about any Pokemon, including
 
 ![Pokedex Wireframe](https://github.com/michaelmartinez25/Pokedex/assets/112640847/cc8911de-6c14-4765-827d-42be90d41973)
 
+## Video Walkthrough
 
-### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
 
-## Schema 
+https://github.com/michaelmartinez25/Pokedex/assets/112640847/c2c1e374-5aad-48f7-ab5e-61e7e996d951
+
+
+
+## Schema (Not sure what to do for the rest of the sections)
 
 [This section will be completed in Unit 9]
 
