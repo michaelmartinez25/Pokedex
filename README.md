@@ -1,7 +1,5 @@
-Original App Design Project
+MichaelDex: IOS101 Capstone Project
 ===
-
-# Pokedex
 
 ## Table of Contents
 
@@ -14,7 +12,9 @@ Original App Design Project
 
 ### Description
 
-This app will allow users to search for information about any Pokemon, including images, details, cries, movesets, evolution methods, etc.
+MichaelDex is the Pokedex that accompanies you in the Pokemon games, starting with the original Red and Blue. Unlock information about the first 151 Pokemon, such as types and stat totals (more info to come)! 
+
+This app is an unofficial app and is NOT affiliated, endorsed, or supported by Nintendo, GAME FREAK, or The Pokemon Company in any way. Some images use in this app are copyrighted and belong to Nintendo, GAME FREAK, or The Pokemon Company. They are used in this app in accordance with the laws of Fair Use, for the United States of America, or of the intellectual property code, for France. Pokemon and Pokemon character names are trademarks of Nintendo. No copyright infringement intended. Pokemon &copy; 2002-2024 Pokemon. &copy; 1995-2024 Nintendo/Creatures Inc./GAME FREAK inc.
 
 ### App Evaluation
 
@@ -37,7 +37,7 @@ This app will allow users to search for information about any Pokemon, including
 
 **Optional Nice-to-have Stories**
 
-- [ ] User can snap a photo of a Pokemon to view info about them.
+- [x] User can snap a photo of a Pokemon to view info about them.
 - [ ] User can search for specific locations to view what Pokemon inhabit that area.
 - [ ] User can create Pokemon parties of six to keep track of their team.
 - [ ] User can search for Pokemon.
@@ -84,15 +84,7 @@ This app will allow users to search for information about any Pokemon, including
 
 ## Video Walkthrough
 
-
-
-https://github.com/michaelmartinez25/Pokedex/assets/112640847/c2c1e374-5aad-48f7-ab5e-61e7e996d951
-
-
-
-## Schema (Not sure what to do for the rest of the sections)
-
-[This section will be completed in Unit 9]
+[Video Demo](https://youtu.be/sihYZrut9C4)
 
 ### Models
 
