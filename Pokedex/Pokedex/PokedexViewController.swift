@@ -12,7 +12,6 @@ class PokedexViewController: UIViewController, UITableViewDataSource {
     
     @IBOutlet weak var tableView: UITableView!
     
-    var imageCache: [URL: UIImage] = [:]
     private var pokemonEntries: [PKMPokemonEntry] = []
     private var pokedex: [Pokemon] = []
     let emptyPokemon: Pokemon = Pokemon(id: nil, name: nil, baseExperience: nil, height: nil, isDefault: nil, order: nil, weight: nil, abilities: nil, forms: nil, gameIndices: nil, heldItems: nil, locationAreaEncounters: nil, moves: nil, sprites: nil, species: nil, stats: nil, types: nil)
@@ -77,8 +76,6 @@ class PokedexViewController: UIViewController, UITableViewDataSource {
         group.wait()
         
         self.pokemonEntries = temp
-        
-        print("Part 1 Done")
         
         // Part 2
         var counter = 0
