@@ -92,6 +92,5 @@ This app is an unofficial app and is NOT affiliated, endorsed, or supported by N
 
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- PokeAPI: Used to retrieve Pokemon game data
+- Google Generative AI: Used to identify Pokemon from images in Snapshot mode
